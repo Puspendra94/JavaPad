@@ -1,5 +1,5 @@
 # JavaPad:
-   ###### JavaPad is a small and lightweight text editor .Build using Java7.
+   ###### JavaPad is a small and lightweight text editor developed in Java7 as BCA(Bachelor of Computer Application) minor project.
 
 # How to run:
    ###### JavaPad requires JRE7(or above) to run.
